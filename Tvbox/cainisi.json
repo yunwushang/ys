@@ -108,18 +108,6 @@
       "jar": "./lib/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
     },
     {
-      "key": "🏀看球",
-      "name": "看球",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "jar": "./lib/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-    },
-    {
       "key": "暴風",
       "name": "暴風",
       "type": 1,
@@ -209,15 +197,6 @@
       "name": "🎵酷狗┃音乐",
       "type": 3,
       "api": "csp_Kugou",
-      "searchable": 0,
-      "changeable": 0,
-      "jar": "./lib/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-    },
-    {
-      "key": "本地",
-      "name": "本地┃文件",
-      "type": 3,
-      "api": "csp_Local",
       "searchable": 0,
       "changeable": 0,
       "jar": "./lib/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
