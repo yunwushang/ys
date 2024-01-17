@@ -49,14 +49,6 @@
       "changeable": 1
     },
     {
-      "key": "快帆",
-      "name": "快帆",
-      "type": 1,
-      "api": "https://api.kuaifan.tv/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "量子",
       "name": "量子┃影视",
       "type": 1,
@@ -71,33 +63,6 @@
       "api": "http://cj.ffzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1
-    },
-    {
-      "key": "樱花",
-      "name": "樱花┃动漫",
-      "type": 3,
-      "api": "csp_Ying",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "./lib/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-    },
-    {
-      "key": "巴士",
-      "name": "巴士┃动漫",
-      "type": 3,
-      "api": "csp_Dm84",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "./lib/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-    },
-    {
-      "key": "异界",
-      "name": "异界┃动漫",
-      "type": 3,
-      "api": "csp_Ysj",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "./lib/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
     },
     {
       "key": "哔哩哔哩",
@@ -122,15 +87,6 @@
       "name": "🎵酷狗┃音乐",
       "type": 3,
       "api": "csp_Kugou",
-      "searchable": 0,
-      "changeable": 0,
-      "jar": "./lib/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-    },
-    {
-      "key": "本地",
-      "name": "本地┃文件",
-      "type": 3,
-      "api": "csp_Local",
       "searchable": 0,
       "changeable": 0,
       "jar": "./lib/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
