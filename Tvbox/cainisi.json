@@ -18,16 +18,17 @@
       "changeable": 1,
       "ext": "./lib/douban.json",
       "jar": "./lib/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-    },{ 
-"key": "云梦",
-"name": "🥷┃云梦┃影视",
-"api": "csp_AppRZ",
-"type": 3,
-"playerType": "2",
-"ext": "http://rzys.xyz/",
-"jar": "./jars/云梦.jar"
-},
-{
+    },
+    { 
+      "key": "云梦",
+      "name": "🥷┃云梦┃影视",
+      "api": "csp_AppRZ",
+      "type": 3,
+      "playerType": "2",
+      "ext": "http://rzys.xyz/",
+      "jar": "./jars/云梦.jar"
+    },
+    {
       "key": "暴風",
       "name": "暴風",
       "type": 1,
