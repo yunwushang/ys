@@ -1,5 +1,5 @@
 {
-  "云梦": "https://cainisi.cf",
+  "云梦": "",
   "友情提醒": "接口完全免费，切勿付费购买。",
   "spider": "./fty0101.jar;md5;fd784008ab71d81a178564841059756d",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
@@ -407,24 +407,6 @@
       "ext": "./lib/4K电影网.js"
     },
     {
-      "key": "69美剧",
-      "name": "69┃影视",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/69美剧[V2].js"
-    },
-    {
-      "key": "9u电影",
-      "name": "9u┃影视",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/9U电影.js"
-    },
-    {
       "key": "B站影视",
       "name": "B站┃影视",
       "type": 3,
@@ -452,87 +434,6 @@
       "ext": "./lib/TVB云播.js"
     },
     {
-      "key": "101影院",
-      "name": "101┃影视",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/l0l.js"
-    },
-    {
-      "key": "万博剧院",
-      "name": "万博┃影视",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/万博剧院.js"
-    },
-    {
-      "key": "乐鱼影视",
-      "name": "乐鱼┃影视",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/乐鱼影视.js"
-    },
-    {
-      "key": "兄弟影视",
-      "name": "兄弟┃影视",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/兄弟影视.js"
-    },
-    {
-      "key": "免费看影视",
-      "name": "免费看┃影视",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/免费看.js"
-    },
-    {
-      "key": "六度TV",
-      "name": "六度┃影视",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/六度TV.js"
-    },
-    {
-      "key": "兰花影院",
-      "name": "兰花┃影视",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/兰花影院.js"
-    },
-    {
-      "key": "凌云影视",
-      "name": "凌云┃影视",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/凌云影视.js"
-    },
-    {
-      "key": "北川影视",
-      "name": "北川┃影视",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/北川影视.js"
-    },
-    {
       "key": "去看吧",
       "name": "去看吧┃影视",
       "type": 3,
@@ -540,63 +441,6 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "./lib/去看吧.js"
-    },
-    {
-      "key": "咕噜[V2]",
-      "name": "咕噜┃影视",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/咕噜[V2].js"
-    },
-    {
-      "key": "嘶哩嘶哩",
-      "name": "嘶哩┃动漫",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/嘶哩嘶哩.js"
-    },
-    {
-      "key": "吼吼",
-      "name": "吼吼┃影视",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/吼吼[飞].js"
-    },
-    {
-      "key": "宿命影视",
-      "name": "宿命┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/宿命影视.json",
-      "jar": "./lib/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
-    },
-    {
-      "key": "NikeTV",
-      "name": "NikeTV┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/NikeTV.json",
-      "jar": "./lib/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
-    },
-    {
-      "key": "APP影院",
-      "name": "APP┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/APP影院.json",
-      "jar": "./lib/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
     },
     {
       "key": "52看剧",
@@ -607,57 +451,6 @@
       "changeable": 1,
       "ext": "./lib/52看剧.json",
       "jar": "./lib/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
-    },
-    {
-      "key": "A8音乐",
-      "name": "🎵A8┃MV",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "./lib/A8音乐.js"
-    },
-    {
-      "key": "DJ哟哟音乐网",
-      "name": "🎵DJ哟哟┃音乐",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "./lib/DJ音乐.js"
-    },
-    {
-      "key": "Jango",
-      "name": "🎵Jango┃音乐",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "./lib/JangoIndex.js"
-    },
-    {
-      "key": "啦啦DJ音乐网",
-      "name": "🎵啦啦DJ┃音乐",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "./lib/啦啦DJ.js"
-    },
-    {
-      "key": "MV_vod",
-      "name": "🎵明星┃MV",
-      "type": 1,
-      "api": "https://mv.wogg.link/mv/vod",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "oval"
-      }
     },
     {
       "key": "酷奇MV",
@@ -736,15 +529,6 @@
       }
     },
     {
-      "key": "企鹅体育",
-      "name": "企鹅┃体育",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "./lib/企鹅体育.json"
-    },
-    {
       "key": "310直播",
       "name": "⚽310┃看球",
       "type": 3,
@@ -764,41 +548,15 @@
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
     },
     {
-      "key": "应用打赏",
-      "name": "应用┃打赏",
       "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
+      "api": "csp_Push",
+      "searchable": 1,
       "changeable": 0,
-      "ext": "./lib/market.json",
-      "jar": "./lib/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
+      "jar": "./lib/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab",
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
     },
     {
-      "key": "公告",
-      "name": "——————————",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "说明1",
-      "name": "菜妮丝",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "说明2",
-      "name": "https://cainisi.cf",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "说明3",
+      "key": "说明0",
       "name": "免费接口更新维护",
       "type": 3,
       "api": "csp_XPath",
@@ -806,7 +564,7 @@
       "changeable": 0
     },
     {
-      "key": "说明4",
+      "key": "说明1",
       "name": "请勿相信视频中任何广告",
       "type": 3,
       "api": "csp_XPath",
@@ -814,8 +572,7 @@
       "changeable": 0
     }
   ],
-  "parses": [
-    {
+  {
       "name": "解析聚合",
       "type": 3,
       "url": "Web"
