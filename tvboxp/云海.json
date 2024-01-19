@@ -23,8 +23,8 @@
 			"ext":"./lib/tokenm.json"
 		},
 		{
-			"key": "直播转点播",
-			"name": "🐼️┃电视┃直播",
+			"key": "点播",
+			"name": "🐼️┃电视┃",
 			"type": 3,
 			"searchable": 0,
 			"api": "./lib/live2vod.js",
