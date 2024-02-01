@@ -765,16 +765,12 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "IPv4",
       "type": 0,
-      "url": "./lib/IPv4.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-    },
-    {
-      "name": "IPV6",
-      "type": 0,
-      "url": "./lib/IPV6.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+      "url": "./lib/ipv6.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+      "playerType": 1
     }
   ]
 }
