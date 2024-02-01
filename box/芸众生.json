@@ -786,14 +786,15 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
     {
-      "name": "ipv6",
-      "type": 0,
-      "url": "./lib/ipv6.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "name": "FMM_IPV6",
+      "type": "0",
+      "pass": true,
+      "url": "./libs/ipv6.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
-  ]
+ ]
 }
