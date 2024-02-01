@@ -13,6 +13,11 @@
     },
     { 
     "key": "云梦",
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    { 
+    "key": "云梦",
     "name": "🥷┃云梦┃影视",
     "api": "csp_AppRZ",
     "type": 3,
@@ -763,6 +768,15 @@
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "LIVE",
+      "type": 0,
+      "url": "https://tvbox.cainisi.cf/TV",
+"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+      "playerType": 1
     },
     {
       "type": 0,
