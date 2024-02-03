@@ -56,14 +56,6 @@ n.chinamobile.com/PLTV/88888888/224/3221226360/1.m3u8
 李子柒美食,#genre#
 
 李子柒,https://v.kuaishou.com/kKv6IO
-陕西体育休闲,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8
-陕西汉中略阳,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8
-陕西咸阳,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8
-陕西铜川,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8
-陕西汉中城固,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226920/1.m3u8
-李子柒美食,#genre#
-
-李子柒,https://v.kuaishou.com/kKv6IO
 李子柒1,https://v.kuaishou.com/mLH2zf 李子柒2,https://v.kuaishou.com/lzerBt
 李子柒,3https://v.kuaishou.com/kzOY9B
 李子柒4,https://v.kuaishou.com/iNAofn 
