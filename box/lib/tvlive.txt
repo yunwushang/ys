@@ -55,24 +55,29 @@ n.chinamobile.com/PLTV/88888888/224/3221226360/1.m3u8
 陕西汉中城固,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226920/1.m3u8
 李子柒美食,#genre#
 
-李子柒,http://lxajh.top/tv/douyu.php?id=2901080
-电影看,#genre#
+李子柒,https://v.kuaishou.com/kKv6IO
+陕西体育休闲,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8
+陕西汉中略阳,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8
+陕西咸阳,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8
+陕西铜川,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8
+陕西汉中城固,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226920/1.m3u8
+李子柒美食,#genre#
 
-天映频道,http://135.148.104.228:19806/644b68b3000a7c162865d184572c1ff0
-天映经典,http://135.148.104.228:19806/644b663d000a432e285c34846b9e74d6
-美亚电影台HD,http://135.148.104.228:19806/c4cf7dc18295472595398d0ad757ccf1
-龙华电影,http://135.148.104.228:19806/cede451738ef405fbb9fd50f010c6e69
-靖天映画,http://135.148.104.228:19806/3ee9183e81d7426b9951e42251877c96
-靖天电影台,http://135.148.104.228:19806/030b9d54cd424c6ba0d5e8acf16f9769
-好莱坞电影台,http://135.148.104.228:19806/86c7f4066b9c49f3808094bd356b8b33
-壹电视电影台,http://135.148.104.228:19806/c4d7d3c0d08941afa5b11dfa41a74576
-星卫HD电影台,http://135.148.104.228:19806/e241d240f66a45adb8be67c8c5cb7edc
-卫视电影台,http://135.148.104.228:19806/e6614f107c924a868360f724bf10f9d8
-纬来电影台,http://135.148.104.228:19806/ae654eeece794e40b003597793cf810a
-凤凰电影台,http://135.148.104.228:19806/2df8c6787b0a4f08bee3dcccd49aef8b
-东森洋片台,http://135.148.104.228:19806/cbe8fad92b7e4497bce416a75eae4708
-东森电影台,http://135.148.104.228:19806/c4890d819ae5497db49b4f13a019e128
-
+李子柒,https://v.kuaishou.com/kKv6IO
+李子柒1,https://v.kuaishou.com/mLH2zf 李子柒2,https://v.kuaishou.com/lzerBt
+李子柒,3https://v.kuaishou.com/kzOY9B
+李子柒4,https://v.kuaishou.com/iNAofn 
+李子柒5,https://v.kuaishou.com/mNonrx 
+李子柒6,https://v.kuaishou.com/jtEg06 
+李子柒7,https://v.kuaishou.com/n3nBva
+李子柒8,https://v.kuaishou.com/netsJM
+李子柒9,https://v.kuaishou.com/ldYAgP
+李子柒10,https://v.kuaishou.com/n9mEw8
+李子柒11,https://v.kuaishou.com/iOGo9w
+李子柒12,https://v.kuaishou.com/n4sBzT 
+李子柒13,https://v.kuaishou.com/jIkJ72
+李子柒14,https://v.kuaishou.com/m6uki5 
+李子柒15,https://v.kuaishou.com/jJhvgX
 移动专区,#genre#
 
 CCTV1,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&amp;Contentid=6000000001000029752&amp;livemode=1&amp;stbId=3
