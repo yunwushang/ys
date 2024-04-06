@@ -228,14 +228,14 @@
       "name": " 搜狗┃官源 ",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/caigou.js"
+      "ext": "./lib/菜狗.js"
     },
     {
       "key": "芒果",
       "name": " 芒果┃官源 ",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/mangguo.js"
+      "ext": "./lib/百忙无果.js"
     },
     {
       "key": "drpy_js_ikanbot3",
