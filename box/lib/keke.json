@@ -1,0 +1,21 @@
+{
+"数组":"class=\"module-item\">&&</div>" , 
+"标题":"title=\"&&\"",
+"图片":"https://vres.vukfnqr.com+data-original=\"&&\"",
+"链接":"href=\"&&\"",
+"副标题":"<span>&&</span>",
+"导演": "导演:</div>&&</div>",
+"主演": "演员:</div>&&</div>",
+
+ "搜索数组":"<a&&</a>",
+ "搜索标题":"title=\"&&\"",
+ "搜索链接":"href=\"&&\"",
+ "搜索图片":"src=\"&&\"",
+ "搜索模式":"1",  
+"搜索url":"https://www.keke7.app/search?os=pc&k={wd}",
+"线路数组":" class=\"source-item\">&&</a>",   
+"播放数组":"class=\"episode-list&&</div>",
+"播放链接":"href=\"&&\"",
+"分类":"电影$1#连续剧$2#动漫$3#综艺$4#短剧$6#",
+"分类url":"https://www.keke8.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html"
+}
