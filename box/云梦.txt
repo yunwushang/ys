@@ -112,7 +112,6 @@
       "key": "腾讯",
       "name": " 腾讯┃官源 ",
       "type": 3,
-      "jar": "./lib/YM.jar",
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/tengxun.js"
     },
@@ -120,7 +119,6 @@
       "key": "drpy_js_优酷1",
       "name": " 优酷┃官源 ",
       "type": 3,
-      "jar": "./lib/YM.jar",
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/youku.js"
     },
@@ -128,7 +126,6 @@
       "key": "搜狗2",
       "name": " 搜狗┃官源 ",
       "type": 3,
-      "jar": "./lib/YM.jar",
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/caigou.js"
     },
@@ -136,7 +133,6 @@
       "key": "芒果",
       "name": " 芒果┃官源 ",
       "type": 3,
-      "jar": "./lib/YM.jar",
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/mangguo.js"
     },
@@ -144,13 +140,11 @@
       "key": "drpy_js_ikanbot3",
       "name": "爱看机器人┃聚合",
       "type": 3,
-      "jar": "./lib/fan.txt",
       "api": "./lib/drpy3.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "ext": "./lib/ikanbot3.js",
-      "timeout": 60
     },
     {
       "key": "苹果",
