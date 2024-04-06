@@ -33,7 +33,7 @@
     },
     {
       "key": "南瓜",
-      "name": "🎃南瓜┃App",
+      "name": "🎃🎆南瓜┃App",
       "type": 3,
       "jar": "./lib/fty.jar",
       "api": "csp_NanGua",
