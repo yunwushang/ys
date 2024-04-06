@@ -78,17 +78,6 @@
           "分类": "电影&连续剧&综艺&动漫",
           "分类值": "1&2&3&4"
       }
-    }, 
-    {
-      "key": "csp_appys_影探",
-      "name": "┃影探4K┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "http://www.wya6.cn/tz/wypg.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cms11.lyyytv.cn/api.php/app/"
     },
     {
       "key": "csp_Nmys",
@@ -109,16 +98,6 @@
       "playerType": 1,
       "changeable": 2,
       "ext": "http://op.ysdqjs.cn$$$null$$$1"
-    },
-    {
-      "key": "js南瓜",
-      "name": "┃南瓜┃秒播",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "http://jin.xn--kwra9540c.love/sj/nangua",
-      "changeable": 0
     },
     {
       "key": "腾讯",
