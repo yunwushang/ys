@@ -43,61 +43,6 @@
       "changeable": 1
     },
     {
-      "key": "meowtv_qysp",
-      "name": "奇艺┃视频",
-      "type": 3,
-      "jar": "./lib/meow1",
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/奇艺视频.js"
-    },
-    {
-      "key": "meowtv_txsp",
-      "name": "腾讯┃视频",
-      "type": 3,
-      "jar": "./lib/meow1",
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/腾讯视频.js"
-    },
-    {
-      "key": "meowtv_yksp",
-      "name": "优酷┃视频",
-      "type": 3,
-      "jar": "./lib/meow1",
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/优酷视频.js"
-    },
-    {
-      "key": "meowtv_mgsp",
-      "name": "芒果┃视频",
-      "type": 3,
-      "jar": "./lib/meow1",
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/芒果视频.js"
-    },
-    {
-      "key": "meowtv_sgys",
-      "name": "搜狗┃视频",
-      "type": 3,
-      "jar": "./lib/meow1",
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/搜狗视频.js"
-    },
-    {
       "key": "77",
       "name": "👒七七┃App",
       "type": 3,
