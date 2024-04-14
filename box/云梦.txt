@@ -64,7 +64,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-     {
+    {
       "key": "厂长",
       "name": "🎆厂长┃无广",
       "type": 3,
