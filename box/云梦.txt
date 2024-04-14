@@ -216,19 +216,6 @@
       "changeable": 1
     },
     {
-      "key": "XBPQ_AMD",
-      "name": "云|眼",
-      "type": 3,
-      "jar": "./lib/yun2.txt",
-      "api": "csp_XBPQ",
-      "ext": {
-        "搜索url": "https://cms.fdue.de/index.php/vod/search.html?wd={wd}",
-        "分类url": "https://cms.fdue.de/index.php/vod/type/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "电影&连续剧&动漫",
-        "分类值": "1&2&4"
-      }
-    },
-    {
       "key": "csp_Vidhub2", 
       "name": "云|山", 
       "type": 3, 
