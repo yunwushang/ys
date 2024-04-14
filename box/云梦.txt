@@ -151,7 +151,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./lib/12.txt"},
+      "jar":"./lib/12.txt"
+    },
     {
       "key": "橘子",
       "name": "🍊橘子┃App",
