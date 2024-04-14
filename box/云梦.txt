@@ -222,10 +222,10 @@
       "jar": "./lib/yun2.txt",
       "api": "csp_XBPQ",
       "ext": {
-          "搜索url": "https://cms.fdue.de/index.php/vod/search.html?wd={wd}",
-          "分类url":   "https://cms.fdue.de/index.php/vod/type/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-          "分类": "电影&连续剧&动漫",
-          "分类值": "1&2&4"
+        "搜索url": "https://cms.fdue.de/index.php/vod/search.html?wd={wd}",
+        "分类url":   "https://cms.fdue.de/index.php/vod/type/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影&连续剧&动漫",
+        "分类值": "1&2&4"
       }
     },
     {
@@ -253,14 +253,15 @@
       "key": "csp_爱优",
       "name": "🏹爱优",
       "type": 3,
+      "jar":"./lib/yun2.txt
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-          "分类url": "https://www.iuys.top/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
-          "副标题":"分享者在线",
-          "分类": "电视剧$1#电影$2#动漫$3#综艺$4"
+        "分类url": "https://www.iuys.top/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+         "副标题":"分享者在线",
+        "分类": "电视剧$1#电影$2#动漫$3#综艺$4"
       }
     },
     {
