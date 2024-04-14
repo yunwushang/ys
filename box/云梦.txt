@@ -250,17 +250,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_xBPQ_秒",
-      "name": "🖼秒播",
-      "type": 3,
-      "jar": "./lib/yun2.txt",
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/yunm2.json"
-    },
-    {
       "key": "Xinsj",
       "name": "视觉┃直连",
       "type": 3,
@@ -271,25 +260,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.80yy3.com/"
-    },
-    {
-      "key": "xiguaya",
-      "name": "🍉┃西瓜",
-      "type": 3,
-      "jar": "./lib/yun.jar",
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-          "直接播放": "1",
-          "副标题": "云梦+module-item-text\">&&</div>",
-          "线路数组": "span id=\"listab&&/span>",
-          "线路标题": "云梦+>&&<",
-          "播放数组": "ulNumList clearfix list_1&&</ul>",
-          "分类url": "https://www.xiguayya.com/t/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
-          "分类": "本西瓜影视只有电影分类可用，切不支持搜索$dianying"
-      }
     },
     {
       "key": "萌米",
