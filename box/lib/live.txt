@@ -26,8 +26,6 @@
 李子柒19,https://vd2.bdstatic.com/mda-mf9bfqq9nwizf3jw/720p_frame30/h264_cae_acd/1674168394949027041/mda-mf9bfqq9nwizf3jw.mp4?v_from_s=bdapp-author-hnb
 李子柒20,https://vd2.bdstatic.com/mda-mf7ckmrpby48ftc5/720p_frame30/h264_cae_acd/1674156660229482139/mda-mf7ckmrpby48ftc5.mp4?v_from_s=bdapp-author-hnb
 
-云众生|央视频道,#genre#
-
 CCTV1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV2,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV3,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -3303,9 +3301,6 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 
 斗鱼音乐,http://epg.112114.xyz/douyu/7537296
 斗鱼音乐-FHD,http://epg.112114.xyz/douyu/9588891
-斗鱼音乐-热舞7,http://epg.112114.xyz/douyu/9288541
-斗鱼音乐-韩国女团,http://epg.112114.xyz/douyu/329667
-斗鱼音乐-久久女团,http://epg.112114.xyz/douyu/340224
 斗鱼音乐华语点歌,http://epg.112114.xyz/douyu/3186217
 刘华强[1920*1080],http://diyp.112114.xyz/douyu/2726977
 雍正专属[720*480],http://diyp.112114.xyz/douyu/9650836
@@ -3322,17 +3317,11 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 刑侦破案[640*480],http://diyp.112114.xyz/douyu/8323493
 人气港剧[1280*720],http://diyp.112114.xyz/douyu/5261342
 
-香港卫视,#genre#
+港卫视,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 
 地方,#genre#
 义乌新闻综合,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
-武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
-平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
-平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
-萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
-萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
-淳安电视台,https://wtmtyoutlive.watonemt.com/f2p7vq/lf76v9.m3u8?zzhed
-淳安电视台,https://wtmtylive.yunshicloud.com/tbziu1/ad592j.m3u8?zzhed
+
 
