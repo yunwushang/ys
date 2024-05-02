@@ -5,9 +5,9 @@
     {
       "name": "LIVE",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/happybaihao/pan/main/live.txt",
+      "url": "1",
       "playerType": 1,
-      "epg": "https://1060s677v8.goho.co/epg.php",
+      "epg": "1",
       "logo": "http://tvbox.top/tvbox/logo/{name}.png"
     }
   ],
