@@ -3,12 +3,11 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
-      "name": "LIVE",
+      "name": "live",
       "type": 0,
-      "url": "1",
-      "playerType": 1,
-      "epg": "1",
-      "logo": "http://tvbox.top/tvbox/logo/{name}.png"
+      "url": "https://raw.gitcode.com/woxinyijiu/DQ/raw/main/live.json",
+      "epg": "https://epg.tvcms.top/api/diyp",
+      "logo": "http://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "sites": [
