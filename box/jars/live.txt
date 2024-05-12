@@ -1,4 +1,4 @@
-🌟视频道,#genre#
+视频道,#genre#
 CCTV1,https://live3.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
 CCTV2,https://live3.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8
 CCTV3,https://live3.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8
