@@ -2622,50 +2622,7 @@ CCTV17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 贵州卫视,https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
 海南卫视,https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
 欢笑剧场,https://live.goodiptv.club/api/bestv.php?id=hxjc8m/8000000
-劲爆体育,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
-快乐垂钓,https://live.goodiptv.club/api/bestv.php?id=klcd8m/8000000
-金鹰纪实,https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
-戏曲精选,https://live.goodiptv.club/api/bestv.php?id=xqjx8m/8000000
-上海第一财经,https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
-上视新闻,https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
-上海都市,https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
-上海纪实,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
-东方影视,https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
-五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
-上视外语,https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
-七彩戏剧,https://live.goodiptv.club/api/bestv.php?id=qcxjhd8m/8000000
-上海教育,https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
-全纪实,https://live.goodiptv.club/api/bestv.php?id=qjshd8m/8000000
-生活时尚,https://live.goodiptv.club/api/bestv.php?id=shss8m/8000000
-新视觉,https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
-游戏风云,https://live.goodiptv.club/api/bestv.php?id=yxfy8m/8000000
-热门综艺,https://live.goodiptv.club/api/bestv.php?id=rmzy8m/8000000
-超级体育,https://live.goodiptv.club/api/bestv.php?id=qcsj8m/8000000
-健康养生,https://live.goodiptv.club/api/bestv.php?id=jkys8m/8000000
-百变课堂,https://live.goodiptv.club/api/bestv.php?id=bbkt8m/8000000
-看天下精选,https://live.goodiptv.club/api/bestv.php?id=ktxjx8m/8000000
-华语影院,https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
-电竞天堂,https://live.goodiptv.club/api/bestv.php?id=djtt8m/8000000
-青春动漫,https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
-宝宝动画,https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
-星光影院,https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
-谍战剧场,https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
-全球大片,https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
-热门剧场,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
-陶瓷高清,https://live.goodiptv.club/api/bestv.php?id=taocihd/8000000
-中国教育-1,https://live.goodiptv.club/api/bestv.php?id=zgjy1t8m/8000000
-中国教育-4,https://live.goodiptv.club/api/bestv.php?id=zgjy4hd8m/8000000
-卡酷少儿,https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
-纪实科教,https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000
-茶频道,https://live.goodiptv.club/api/bestv.php?id=cpdhdavs8m/8000000
-足球高清,https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000
-炫动卡通,https://live.goodiptv.club/api/bestv.php?id=hhxd8m/8000000
-东方财经,https://live.goodiptv.club/api/bestv.php?id=dfcjhd8m/8000000
-都市剧场,https://live.goodiptv.club/api/bestv.php?id=dsjc8m/8000000
-动漫秀场,https://live.goodiptv.club/api/bestv.php?id=dmxc8m/8000000
-法治天地,https://live.goodiptv.club/api/bestv.php?id=fztd8m/8000000
-金色学堂,https://live.goodiptv.club/api/bestv.php?id=jingsepd8m/8000000
-魅力足球,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
+
 🎄云众｜旅游景区,#genre#
 
 峨眉山普贤菩萨,http://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8
@@ -3023,7 +2980,7 @@ CHC动作电影,http://175.43.106.30:4022/rtp/239.61.3.16:9616 CGTN Espa?ol,http
 【动漫】超燃怀旧经典,http://epg.112114.xyz/douyu/1174353
 智取华山,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ef243e3fa20544df9cc24b72ace8efa0/850.m3u8 
 【小叮当】童年经典动画片,http://epg.112114.xyz/douyu/9445279 
-红色老片,#genre# 
+老片,#genre# 
 
 红牡丹,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/921b8081b58b4c2f81fb233b6c8e89ac/850.m3u8
 三毛流浪记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b9ce94c233b043bebe30340f09868ed1/850.m3u8
@@ -3868,8 +3825,6 @@ SNH48剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432328
 韩国动感舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
 朴孝敏 –SKETCH,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAguq6r7gUouOyF4gE.mp4
 泫雅-甩Nai舞,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp92c4gUovM-V_QU.mp4
-僵尸跳舞David Jones,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-vqa4gUotM7X6wc.mp4
-MTV僵尸舞,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw5Cv4gUoiZqZ4wE.mp4
 Alan Walker-feat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9qiM5gUo-tns8Qc.mp4
 Trouble Maker,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2fWv4gUo9JT7DQ.mp4
 Trouble Maker- Now,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvue_4gUomZa1kQU.mp4
@@ -4622,26 +4577,5 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 凤凰传奇-荷塘月色,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1565837&amp;response=res&amp;format=mp4&amp;type=convert_url
 李玲玉天竺少女,http://vd3.bdstatic.com/mda-icktmsmht26j2399/sc/mda-icktmsmht26j2399.mp4
 李玲玉女儿情,http://vd4.bdstatic.com/mda-jiqh0kcd7kgpwnmb/sc/mda-jiqh0kcd7kgpwnmb.mp4
-┌ 斗鱼  轮播 ┐,#genre#
 
-斗鱼音乐,http://epg.112114.xyz/douyu/7537296
-斗鱼音乐-FHD,http://epg.112114.xyz/douyu/9588891
-斗鱼音乐-热舞7,http://epg.112114.xyz/douyu/9288541
-斗鱼音乐-韩国女团,http://epg.112114.xyz/douyu/329667
-斗鱼音乐-久久女团,http://epg.112114.xyz/douyu/340224
-斗鱼音乐华语点歌,http://epg.112114.xyz/douyu/3186217
-刘华强[1920*1080],http://diyp.112114.xyz/douyu/2726977
-雍正专属[720*480],http://diyp.112114.xyz/douyu/9650836
-活佛济公[1920*1080],http://diyp.112114.xyz/douyu/8595134
-吃米滴虫[1280*720],http://diyp.112114.xyz/douyu/315457
-周末狂欢[1280*720],http://diyp.112114.xyz/douyu/7476264
-童年阴影[1536*864],http://diyp.112114.xyz/douyu/2935323
-古装喜剧[1920*1080],http://diyp.112114.xyz/douyu/431460
-古装神剧[1920*1080],http://diyp.112114.xyz/douyu/338759
-国产影片[1536*864],http://diyp.112114.xyz/douyu/5423
-刑侦破案[640*480],http://diyp.112114.xyz/douyu/8323493
-人气港剧[1280*720],http://diyp.112114.xyz/douyu/5261342
-
-刑侦破案[640*480],http://diyp.112114.xyz/douyu/8323493
-人气港剧[1280*720],http://diyp.112114.xyz/douyu/5261342
 
