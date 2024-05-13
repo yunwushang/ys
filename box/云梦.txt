@@ -284,7 +284,7 @@
       "key": "玩偶哥哥",
       "name": "玩偶哥哥┃4K弹幕",
       "type": 3,
-      "jar"
+      "jar":"./lib/fan.txt",
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
@@ -356,33 +356,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "荐片弹幕",
-      "name": "🗯️弹幕┃荐片",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-          "danmu": true
-      },
-      "jar": "./jar/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
-    },
-    {
-      "key": "JOJO弹幕",
-      "name": "🗯️弹幕┃JOJO",
-      "type": 3,
-      "api": "csp_Jiohub",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-          "danmu": true
-      },
-      "jar": "./jar/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
     },
     {
       "key": "酷看弹幕版",
