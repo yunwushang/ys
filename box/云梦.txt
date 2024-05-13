@@ -281,7 +281,7 @@
       "timeout": 15
     },
     {
-      "key": "玩偶哥哥",
+      "key": "玩哥",
       "name": "玩偶哥哥┃4K弹幕",
       "type": 3,
       "jar":"./lib/fan.txt",
