@@ -281,19 +281,16 @@
       "timeout": 15
     },
     {
-      "key": "玩偶弹幕版",
-      "name": "👽玩偶┃4K弹幕",
+      "key": "玩偶哥哥",
+      "name": "玩偶哥哥┃4K弹幕",
       "type": 3,
-      "api": "csp_Wogg",
+      "jar"
+      "api": "csp_WoGG",
       "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-           "token": "file://TV/ali_token.txt",
-           "wogg": true,
-           "danmu": true
-      },
-      "timeout": 30
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/TV/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹",
+      "timeout": 60
     },
     {
       "key": "荐片弹幕版",
