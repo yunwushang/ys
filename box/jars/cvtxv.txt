@@ -379,6 +379,351 @@ CHC高清电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
 斗鱼电影158,http://43.138.170.29:35455/douyu/8788687
 斗鱼电影165,http://43.138.170.29:35455/douyu/8705754
 斗鱼电影169,http://43.138.170.29:35455/douyu/7528160
+电影轮播,#genre#
+
+神雕侠侣,https://live.metshop.top/yy/1351762426 
+倚天屠龙记,https://live.metshop.top/yy/1449856066 
+天龙八部,https://live.metshop.top/yy/1351814644 
+笑傲江湖,https://live.metshop.top/yy/1354936128 
+寻秦记,https://live.metshop.top/yy/1382749900
+封神榜,https://live.metshop.top/yy/1353426319 
+新白娘子传奇,https://live.metshop.top/yy/1354490667 
+新白娘子传奇-修复版,https://live.metshop.top/yy/1354930969
+红楼梦,https://live.metshop.top/yy/1382745084 
+三国演义,https://live.metshop.top/yy/1354936241 
+西游记后传,https://live.metshop.top/yy/1353392400
+宰相刘罗锅,https://live.metshop.top/yy/1353892468
+庆余年,http://diyp.112114.xyz/douyu/7489563 
+陈情令,https://live.metshop.top/yy/1382745121 
+知否知否应是绿肥红瘦,https://live.metshop.top/yy/21881901 
+仙剑奇侠传,https://live.metshop.top/yy/1382749903 
+金装四大才子,https://live.metshop.top/yy/1354926600 
+公主嫁到,https://live.metshop.top/yy/1382736915 
+耀舞长安,https://live.metshop.top/yy/1382741640 
+海滩,https://live.metshop.top/yy/1382745184 
+大时代,https://live.metshop.top/yy/1354930891 
+陀枪师姐,https://live.metshop.top/yy/1382688521 
+飞虎之潜行极战,https://live.metshop.top/yy/1354932420
+天道,https://live.metshop.top/yy/1382735574 
+欢乐颂,https://live.metshop.top/yy/1382735624 
+平凡岁月,https://live.metshop.top/yy/1382745117
+金星脱口秀,https://live.metshop.top/yy/1354932407
+航拍中国第1季,https://live.metshop.top/yy/1354936136 
+神乐影院-2台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8 
+小花,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/f97fb71bff5947ddaf905cc121c42ee4/850.m3u8 
+苦菜花,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ec47d310d888464f8446af5e6e04ded8/850.m3u8 
+奇袭,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ac8b28fb66104aa7a5e3cd5a10ea986b/850.m3u8 
+神秘的旅伴,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ef95b9f13e2c47b882b67ef52139786a/850.m3u8 
+渡江侦察记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d708e9c64aa34519af5490a793756c38/850.m3u8 
+南征北战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9557e1bfd91b4319975dfeffcc44d6b7/850.m3u8 
+洪湖赤卫队,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2a58afdece3342eaac927648a2cccabd/850.m3u8 
+地雷战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8 
+侦察兵,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3e4727a0fca34aa8b9774472a4908eaf/850.m3u8 
+柳堡的故事,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/706b979b8a934aaab677a11c410bb119/850.m3u8 
+罗密欧与朱丽叶,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/95193e30bd454e77bc59a140f4e32ad2/850.m3u8 
+追鱼,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/3515e586d18743be99eb6cc2004cb995/2000.m3u8 
+秦香莲,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/f8daefadadef41989225543875268a70/2000.m3u8 
+天仙配,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1cd056751daf430a943e63e6428c40d7/850.m3u8 
+51号兵站,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fa6557276d644b5ea399956a6bf94e59/850.m3u8 
+红楼梦01,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/f66e935661b44ff6b80a290537d5d204/2000.m3u8
+铁弓缘,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/e19f3238b0ba4849aa50d6b7f1118ab9/2000.m3u8 
+突破乌江,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bf8ccfff8bc949a6a2ed6bcda45eb4e2/850.m3u8 
+鸡毛信,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/41fcf9fefcf247c78e2d64c7af5d6edd/850.m3u8 
+李双双,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bac928d747984ed3bd17550879522f89/850.m3u8 
+铡刀下的红梅,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6f0817bfbedd42c682d9152abd5402a3/850.m3u8
+羊城暗哨,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/215e7a6713884bcab8cc461e245531af/850.m3u8 
+祖国的花朵,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ef10a9a9b1534fe38fd4fdfdac1ed493/850.m3u8 
+跟踪追击,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/059096230b4e46c0b5d4929ff98435d0/850.m3u8 
+大闹天宫,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a57c9e5e1696486e97d229a3ddb13749/850.m3u8
+五朵金花,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ae639196cf3949368c1b05776bb1d4fa/850.m3u8
+三毛从军记,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/919a08437d44499b87b7b4903f2b2ae6/850.m3u8
+红楼梦02,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/10470613ead24f5cb435137b5f39ab98/2000.m3u8 
+万水千山,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8804d527d9d94b818b42624730203fa9/850.m3u8
+碧玉簪,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9e90b1a2872b476b8a4f9882f9b63cde/850.m3u8 
+狼牙山五壮士,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/71c649af833c43a9b61e4f5c913bbd6b/850.m3u8
+花儿朵朵,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/53a44d8649024b58b69f4468b922b8f0/850.m3u8  
+经典片,#genre# 
+
+红牡丹,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/921b8081b58b4c2f81fb233b6c8e89ac/850.m3u8
+三毛流浪记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b9ce94c233b043bebe30340f09868ed1/850.m3u8
+战上海,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/e84b188d1bf7484fb4907d99827cbd45/850.m3u8
+铁道游击队,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/46d8664dacad4dbb9c790256688048dc/850.m3u8
+红孩子,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/bf55b84744d64eeaaedc5ea603855597/850.m3u8 
+宝葫芦的秘密,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/866474add7224067877bed430d9380ab/850.m3u8
+董存瑞,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b657281ba44a4b279f55ec860c12543b/850.m3u8
+地下尖兵,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/188d5706e5774f06850e06e4f181c4bd/850.m3u8 
+三毛从军记,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/919a08437d44499b87b7b4903f2b2ae6/850.m3u8
+的红星,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b90fcf1a5425479baf3a045282a1f263/850.m3u8 
+祖国的花朵,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ef10a9a9b1534fe38fd4fdfdac1ed493/850.m3u8
+花儿朵朵,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/53a44d8649024b58b69f4468b922b8f0/850.m3u8
+原游击队,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/180ef18dec9a4edeb9d2b520d57cfc7f/850.m3u8 
+神秘的旅伴,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ef95b9f13e2c47b882b67ef52139786a/850.m3u8
+前哨,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/1e9c4ffe4002492484c0f50235299759/850.m3u8
+刘三姐,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/680e102dc8614632862cf49a236def6e/850.m3u8 
+赛虎,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/34505162ca0848af9e23d33ed4018088/850.m3u8 
+犬王,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/08d97be6d296434098297a505e2f05b5/850.m3u8 
+特别攻击队,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c69eed95a2cd4752850bcac109151e37/850.m3u8
+举起手来-追击阿多丸,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/a1093561ad0a4071b68eeae884de01e7/850.m3u8 
+鸡毛信,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/41fcf9fefcf247c78e2d64c7af5d6edd/850.m3u8 
+马兰花,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c89d105b9661464bb8c5c5f46977f6c4/850.m3u8 
+南征北战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9557e1bfd91b4319975dfeffcc44d6b7/850.m3u8 
+羊城暗哨,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/215e7a6713884bcab8cc461e245531af/850.m3u8 
+冰山上的来客,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c86d45b176d642738dabf9da7361653b/850.m3u8 
+51号兵站,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fa6557276d644b5ea399956a6bf94e59/850.m3u8
+红日,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/f2ee6e22cd894be1bc8c90b19f47ae2e/850.m3u8 
+战火中的青春,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/be0d797e3b494f5fa1cb6d48d29643f3/850.m3u8
+英雄虎胆,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b7fcd0d4ebb045fe8e653ee71b4ef8fc/850.m3u8 
+突破乌江,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bf8ccfff8bc949a6a2ed6bcda45eb4e2/850.m3u8
+三进山城,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ee157540ff2540ada0250edf3f6a3e0a/850.m3u8 
+苦菜花,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ec47d310d888464f8446af5e6e04ded8/850.m3u8 
+智取华山,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ef243e3fa20544df9cc24b72ace8efa0/850.m3u8 
+渡江侦察记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d708e9c64aa34519af5490a793756c38/850.m3u8 
+奇袭,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ac8b28fb66104aa7a5e3cd5a10ea986b/850.m3u8 
+小花,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/f97fb71bff5947ddaf905cc121c42ee4/850.m3u8 
+少林寺,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8af9ff377238407e927e597a1af47788/850.m3u8 
+大气层消失,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/45122e56521f49b68020e3e66bc28ce8/850.m3u8
+霹雳贝贝,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7accc94d5590415284af5db904e4be5a/850.m3u8 
+泉水叮咚,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8b039f6988a04ca8b086d35031a77204/850.m3u8 
+柳堡的故事,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/706b979b8a934aaab677a11c410bb119/850.m3u8 
+李双双,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bac928d747984ed3bd17550879522f89/850.m3u8 
+大闹天宫,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a57c9e5e1696486e97d229a3ddb13749/850.m3u8 
+柳毅传书,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/2ee71b96a3574889829e17d70b3f3c02/2000.m3u8
+卷席筒,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8bebd13583e341e1b9d9e1180d36aaaa/850.m3u8
+铡刀下的红梅,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6f0817bfbedd42c682d9152abd5402a3/850.m3u8 
+墙头马上,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c45285c6b2ac46a58d49c9351b18e369/850.m3u8
+花为媒,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/48da40a19746409997717371a80fd9e6/2000.m3u8 
+梁山伯与祝英台,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/427eb50cc6844d47bcd35d2fac737a0a/850.m3u8
+铁弓缘,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/e19f3238b0ba4849aa50d6b7f1118ab9/2000.m3u8
+碧玉簪,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9e90b1a2872b476b8a4f9882f9b63cde/850.m3u8 
+野猪林,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d2ddcbd8cdba4473a541687e683c1aca/850.m3u8 
+杜鹃山01,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f468a89e0e394a718474523afe37c702/850.m3u8
+杜鹃山02,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/5f76957927c5421e8bd75d0f53c95e4a/850.m3u8 
+红灯记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/84fd88d42e65413a90b9a8b54b685fde/850.m3u8
+奇袭白虎团,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8d476d0de4a343bd8c77c8a83331fc16/850.m3u8
+智取威虎山,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b59e746e354d4c0baefaca2f031eec25/850.m3u8 
+杜鹃山02,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/5f76957927c5421e8bd75d0f53c95e4a/850.m3u8 
+红灯记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/84fd88d42e65413a90b9a8b54b685fde/850.m3u8
+奇袭白虎团,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8d476d0de4a343bd8c77c8a83331fc16/850.m3u8
+智取威虎山,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b59e746e354d4c0baefaca2f031eec25/850.m3u8 
+音乐DJ,#genre#
+
+DJ音乐01,https://vd3.bdstatic.com/mda-nda3jnm5kjr0pzkk/480p/h264_delogo/1649645090089685317/mda-nda3jnm5kjr0pzkk.mp4
+DJ音乐02,https://vd4.bdstatic.com/mda-ndc2akp3ve971zsx/480p/h264_delogo/1649813962979142773/mda-ndc2akp3ve971zsx.mp4
+DJ音乐03,https://vd3.bdstatic.com/mda-ndd2kbfrvgzzt5zc/480p/h264_delogo/1649901097405881759/mda-ndd2kbfrvgzzt5zc.mp4
+DJ音乐04,https://vd4.bdstatic.com/mda-ndec79cmtjbdznfb/480p/h264_delogo/1650012233317163165/mda-ndec79cmtjbdznfb.mp4
+DJ音乐05,https://vd4.bdstatic.com/mda-ndhdtit37qtisjda/480p/h264_delogo/1650275228081595455/mda-ndhdtit37qtisjda.mp4
+DJ音乐06,https://vd3.bdstatic.com/mda-ndd3yrxmmfyci3b9/480p/h264_delogo/1649904694120096435/mda-ndd3yrxmmfyci3b9.mp4
+DJ音乐07,https://vd3.bdstatic.com/mda-ndf2e5d2bsgftwrt/480p/h264_delogo/1650073422791087790/mda-ndf2e5d2bsgftwrt.mp4
+DJ音乐08,https://vd2.bdstatic.com/mda-ncn28jk4b66yj318/480p/h264_delogo/1647999428356973409/mda-ncn28jk4b66yj318.mp4
+DJ音乐09,https://vd3.bdstatic.com/mda-nd53ytstfqsu5qr5/480p/h264_delogo/1649214359850036018/mda-nd53ytstfqsu5qr5.mp4
+DJ音乐10,https://vd2.bdstatic.com/mda-nd44sygreax18jk5/480p/h264_delogo/1649130017612498270/mda-nd44sygreax18jk5.mp4
+DJ音乐11,https://vd2.bdstatic.com/mda-ndd0byuyrw19vv2g/480p/h264_delogo/1649895616476076795/mda-ndd0byuyrw19vv2g.mp4
+DJ音乐12,https://vd4.bdstatic.com/mda-nda2b774z37ig4yh/480p/h264_delogo/1649641534392565187/mda-nda2b774z37ig4yh.mp4
+DJ音乐13,https://vd2.bdstatic.com/mda-nde1zha2ickju5ui/480p/h264_delogo/1649986202699266753/mda-nde1zha2ickju5ui.mp4
+DJ音乐14,https://vd2.bdstatic.com/mda-nde83jtsrx9345ai/480p/h264_delogo/1650001792789333244/mda-nde83jtsrx9345ai.mp4
+DJ音乐15,https://vd3.bdstatic.com/mda-ndd9pwn5djrh80tn/480p/h264_delogo/1649919370531344965/mda-ndd9pwn5djrh80tn.mp4
+DJ音乐16,https://vd3.bdstatic.com/mda-nde286gfshg88ehj/480p/h264_delogo/1649986845621209556/mda-nde286gfshg88ehj.mp4
+DJ音乐17,https://vd2.bdstatic.com/mda-nde3tgqcpn6ybmzi/480p/h264_delogo/1649990812107105473/mda-nde3tgqcpn6ybmzi.mp4
+DJ音乐18,https://vd4.bdstatic.com/mda-nd94mmwgi7n5yjuq/480p/h264_delogo/1649560996209064951/mda-nd94mmwgi7n5yjuq.mp4
+DJ音乐19,https://vd2.bdstatic.com/mda-ndh1zq5t0ch5v0ai/480p/h264_delogo/1650245390711418844/mda-ndh1zq5t0ch5v0ai.mp4
+DJ音乐20,https://vd3.bdstatic.com/mda-nd6efub0q87grqqi/480p/h264_delogo/1649326957736508274/mda-nd6efub0q87grqqi.mp4
+DJ音乐21,https://vd2.bdstatic.com/mda-nd1504ikeuhvz01a/480p/h264_delogo/1648871675027565108/mda-nd1504ikeuhvz01a.mp4
+DJ音乐22,https://vd2.bdstatic.com/mda-nda1yfyvguy1xnwu/480p/h264_delogo/1649640493896155540/mda-nda1yfyvguy1xnwu.mp4
+DJ音乐23,https://vd2.bdstatic.com/mda-ndi440j2kyq8z5ud/480p/h264_delogo/1650337433594758029/mda-ndi440j2kyq8z5ud.mp4
+DJ音乐24,https://vd2.bdstatic.com/mda-ndg1w6tqf2t511dd/480p/h264_delogo/1650158717653584279/mda-ndg1w6tqf2t511dd.mp4
+DJ音乐25,https://vd3.bdstatic.com/mda-ndh1u3bxnsqeakhc/480p/h264_delogo/1650244946349970218/mda-ndh1u3bxnsqeakhc.mp4
+DJ音乐26,https://vd2.bdstatic.com/mda-mm595gmdf11p2pf0/1080p/cae_h264/1638806041749745133/mda-mm595gmdf11p2pf0.mp4
+DJ音乐27,https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43fbdc.mp4
+DJ音乐29,https://vd2.bdstatic.com/mda-mm33bvw7zymzhwgx/1080p/cae_h264/1638591344918378556/mda-mm33bvw7zymzhwgx.mp4
+DJ音乐30,https://vdse.bdstatic.com//6d2f84ad5762c818efd8dc210d8743c6.mp4
+DJ音乐31,https://vdse.bdstatic.com//01b1f78bb5b009d36ce3f5051e7383c1.mp4
+DJ音乐33,https://vd4.bdstatic.com/mda-mmgf9k7sqr771a0d/1080p/cae_h264/1639739439753027337/mda-mmgf9k7sqr771a0d.mp4
+
+✨｜DJ舞蹈,#genre#
+
+今日热歌DJ《如果爱还在》,https://vd2.bdstatic.com/mda-mhhf5mr00yyhpfjs/1080p/cae_h264/1629284581057661229/mda-mhhf5mr00yyhpfjs.mp4
+推荐9首DJ舞曲,https://vd2.bdstatic.com/mda-mhig1c3sw223mx8p/1080p/cae_h264/1629380139191731149/mda-mhig1c3sw223mx8p.mp4
+动感DJ《苦了累了听听歌》,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_h264/1629888246186602728/mda-mhqekuf2r91v08dt.mp4
+车载必备DJ《殇雪》,https://vd3.bdstatic.com/mda-mhve4gb9hi8cstzk/1080p/cae_h264/1630319514896018158/mda-mhve4gb9hi8cstzk.mp4
+DJ《心在跳情在烧》,https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4
+孙艺琪《寂寞的人别听伤感情歌》,https://vd2.bdstatic.com/mda-mdscsws7443npwa8/1080p/cae_h264/1619516504/mda-mdscsws7443npwa8.mp4
+郭镐鸣《野摩托》,https://vd3.bdstatic.com/mda-mekfm7wu6f4rtt99/1080p/cae_h264/1621595318412084671/mda-mekfm7wu6f4rtt99.mp4
+赵蕾蕾《寂寞的城伤心的人》,https://vd2.bdstatic.com/mda-mesdm11tdp69a9ye/1080p/cae_h264/1622115758783335310/mda-mesdm11tdp69a9ye.mp4
+DJ版《真的为你哭了》,https://vd2.bdstatic.com/mda-me5chwexudvzcayg/fhd/cae_h264_nowatermark/1620297137821103617/mda-me5chwexudvzcayg.mp4
+海来阿木《浪子心》DJ沈念版,https://vd3.bdstatic.com/mda-mgr9s5pv0jeqbcm8/1080p/cae_h264/1627298307874491239/mda-mgr9s5pv0jeqbcm8.mp4
+《人间惊鸿客》,https://vd3.bdstatic.com/mda-mh2bbyjcqjxjhzkd/1080p/cae_h264/1627978577559447916/mda-mh2bbyjcqjxjhzkd.mp4
+DJ版《三月里的小雨》,https://vd2.bdstatic.com/mda-mgwegh0bzv4cy6cb/1080p/cae_h264/1627727251470197083/mda-mgwegh0bzv4cy6cb.mp4
+DJ版《望爱却步》,https://vd4.bdstatic.com/mda-mh3ei4sg2jypty79/1080p/cae_h264/1628072927342489970/mda-mh3ei4sg2jypty79.mp4
+《唱着情歌流着泪》,https://vd3.bdstatic.com/mda-mhwaejanf0ie6b8j/1080p/cae_h264/1630409563129833732/mda-mhwaejanf0ie6b8j.mp4
+DJ版《一个人挺好》,https://vd3.bdstatic.com/mda-mh6gqq4b59z26cjx/1080p/cae_h264/1628504623473300938/mda-mh6gqq4b59z26cjx.mp4
+《爱你到最后一刻》,https://vd3.bdstatic.com/mda-mhr9c7q9xzgy1812/1080p/cae_h264/1630062648077583523/mda-mhr9c7q9xzgy1812.mp4
+伤感DJ《等》,https://vd2.bdstatic.com/mda-mhq92a7nafrh8dma/1080p/cae_h264/1629977686796490849/mda-mhq92a7nafrh8dma.mp4
+DJ《我们不再是从前》,https://vd2.bdstatic.com/mda-mhne550wq5m66zvj/1080p/cae_h264/1629803514331462220/mda-mhne550wq5m66zvj.mp4
+DJ舞曲《让我做你的眼睛》,https://vd2.bdstatic.com/mda-mhaargrart2qrkdz/1080p/cae_h264/1629630942996744682/mda-mhaargrart2qrkdz.mp4
+DJ版《时间会知道你好不好》,https://vd3.bdstatic.com/mda-mhairve7gvye1192/1080p/cae_h264/1629457148988604256/mda-mhairve7gvye1192.mp4
+DJ版《爱不得忘不舍》,https://vd3.bdstatic.com/mda-mh8j8egnj8idbvd8/1080p/cae_h264/1629367979662473678/mda-mh8j8egnj8idbvd8.mp4
+DJ版《蜜雪冰城》,https://vd3.bdstatic.com/mda-mhbae2pwwxhyxjcz/1080p/cae_h264/1628767594518574030/mda-mhbae2pwwxhyxjcz.mp4
+DJ版《夜难眠》,https://vd3.bdstatic.com/mda-mh5hwg99vtp777bj/1080p/cae_h264/1628420576290088489/mda-mh5hwg99vtp777bj.mp4
+《无味》 DJ版,https://vd3.bdstatic.com/mda-mgqiagirsmmpuarm/1080p/cae_h264/1627218846577884242/mda-mgqiagirsmmpuarm.mp4
+DJ版《原谅你的谎》,https://vd4.bdstatic.com/mda-mhacxx5vhr2we882/1080p/cae_h264/1628673933350116053/mda-mhacxx5vhr2we882.mp4
+DJ《等爱》,https://vd2.bdstatic.com/mda-mfhh1e0hwq212rrt/sc/h264/1623988905898256147/mda-mfhh1e0hwq212rrt.mp4
+DJ《醉过多少回》,https://vd4.bdstatic.com/mda-megp46e98a4f2b9g/sc/h264/1621239560364992817/mda-megp46e98a4f2b9g.mp4
+DJ小鱼儿 - 如果你真的要离开 (DJ加快版),https://vd4.bdstatic.com/mda-mfh4rq9drsza8gf9/1080p/cae_h264/1623987066817324460/mda-mfh4rq9drsza8gf9.mp4
+DJ情歌《爱情迷了路》,https://vd4.bdstatic.com/mda-mdbrb7fns70avrmt/1080p/cae_h264/1618222287/mda-mdbrb7fns70avrmt.mp4
+《忘川彼岸DJ》,https://vd2.bdstatic.com/mda-md2eyfntemujuft5/1080p/cae_h264/1617446472/mda-md2eyfntemujuft5.mp4
+DJ音乐舞曲《一千个轮回》,https://vd4.bdstatic.com/mda-mdu1939m1muvhme3/1080p/cae_h264/1619662287022848524/mda-mdu1939m1muvhme3.mp4
+DJ 最美不过你的微笑,https://vd4.bdstatic.com/mda-mhs2qjdmkjz2rb7g/sc/cae_h264/1630029534870787600/mda-mhs2qjdmkjz2rb7g.mp4
+DJ 流浪兄弟,https://vd2.bdstatic.com/mda-mhrdtax1km0idkc5/1080p/cae_h264/1629972852606533219/mda-mhrdtax1km0idkc5.mp4
+车载DJ《多年以后》,https://vd3.bdstatic.com/mda-mhqekuegbh6112js/1080p/cae_h264/1629891559415737083/mda-mhqekuegbh6112js.mp4
+红尘只是个过客,https://vd2.bdstatic.com/mda-mhq68s6g444n437t/hd/cae_h264/1629865742325435508/mda-mhq68s6g444n437t.mp4
+百花香(抖音DJ版),https://vd4.bdstatic.com/mda-mdsd1z3wbqeeyumq/fhd/cae_h264_nowatermark/1620021906658368673/mda-mdsd1z3wbqeeyumq.mp4
+经典老歌DJ舞曲七首,https://vd2.bdstatic.com/mda-mhwbtsnrmm6v6x5r/sc/cae_h264/1630403250895754314/mda-mhwbtsnrmm6v6x5r.mp4
+精选五首DJ男声串烧,https://vd2.bdstatic.com/mda-maqfk730tsig88wr/v2-hknm/1080p/mda-maqfk730tsig88wr.mp4
+韩可可《错位时空》DJ版,https://vd3.bdstatic.com/mda-mgciytzb45z6z8yj/1080p/cae_h264/1626183756603775947/mda-mgciytzb45z6z8yj.mp4
+忘记你需要多久(DJ小鱼儿版),https://vd2.bdstatic.com/mda-mc1sm1r5s9azchjv/v1-cae/1080p/mda-mc1sm1r5s9azchjv.mp4
+抖音热歌《大风吹+夜夜夜漫长》,https://vdse.bdstatic.com//13da18e12728e9d7849f6589a3070b4c.mp4
+一夜火爆i网络DJ舞曲,https://vdse.bdstatic.com//692b9306c06b72d223c9d714f8ebe579.mp4
+2021年最火伤感音乐,https://vdse.bdstatic.com//6d39df48360bdb12f73800397c4a6c02.mp4
+2021年网络火爆伤感情歌6首,https://vdse.bdstatic.com//80e0473f97055cec1c9c76c1c7e5498a.mp4
+2021热门伤感DJ,https://vdse.bdstatic.com//06b4e9b185b843e694e4d20e9b0a0aac.mp4
+6首DJ情歌,https://vdse.bdstatic.com//e0ad4d203cd7d7ffa943544c8d2ddbd3.mp4
+几首比较火的DJ情歌,https://vdse.bdstatic.com//4d7e8fe409b2ba9e08b179de8e146fa3.mp4
+精选6首DJ情歌,https://vdse.bdstatic.com//2ead9cf04f5e9e3a99eea79534c3c104.mp4
+酒吧DJ舞曲,https://vdse.bdstatic.com//5208fb24e1d76b0e81f992e91537f086.mp4
+花都开了你来不来DJ,https://vd3.bdstatic.com/mda-mdee523swbezmsin/480p/h264/1618480997/mda-mdee523swbezmsin.mp4
+DJ舞曲,https://vdse.bdstatic.com//8258cbe0dfd6738613fe9efd33a7a83f.mp4
+4K高清岳云鹏,https://vd2.bdstatic.com/mda-meqitprx5ti8ed1a/720p/h264/1621948823045463060/mda-meqitprx5ti8ed1a.mp4
+甜歌美人舞,https://vd2.bdstatic.com/mda-ndr6b7bxbcxhs2hn/480p/h264_delogo/1650947738307316588/mda-ndr6b7bxbcxhs2hn.mp4
+
+🎵MTV频道,#genre#
+
+放不下你如何放过自己,https://vd3.bdstatic.com/mda-pj4c6e87s0ci3ted/sc/cae_h264/1696501509660065032/mda-pj4c6e87s0ci3ted.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1697641408-0-0-b7f5254969edb250ed51a501418c3a66&bcevod_channel=searchbox_feed&pd=1&cr=2&cd=0&pt=3&logid=0208550516&vid=6049803654467634781&klogid=0208550516&abtest=112954_1-113704_1
+放不下你如何放过自己,https://kvideo01.youju.sohu.com/036f4ff8-9d08-489a-bb78-d5964722293e2_0_0.mp4?sign=63e3183888be66d74d48376aad945892&t=1697651953
+歌MV1,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgypLV4gUo-ZmUhwc.mp4
+歌MV2,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglZTV4gUo1tiHrgM.mp4
+歌MV3,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmJbV4gUogpLGkgM.mp4
+歌MV4,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgk5nV4gUo5KyapQI.mp4
+歌MV5,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglpvV4gUo0pn7iAQ.mp4
+歌MV6,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgksy04wUo17eY6Qc.mp4
+歌MV7,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg49ia4gUolMGllwI.mp4
+歌MV8,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAghv2c4gUo1IGIhQQ.mp4
+歌MV9,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0P6c4gUogMuVmwQ.mp4
+歌MV10,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg59bE4gUo0P3y9QM.mp4
+歌MV11,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg8NfE4gUomOLI6gM.mp4
+歌MV12,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgotjE4gUo8Jvi8Ac.mp4
+歌MV13,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvp_b4gUovoTAwAI.mp4
+歌MV14,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglYC24gUokJDpqQU.mp4
+歌MV15,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0YC24gUoyvO6Ng.mp4
+歌MV16,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgxa_M5gUooKTfxAE.mp4
+歌MV17,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtpai5wUoyLvuugU.mp4
+歌MV18,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyKyM5gUooJurKA.mp4
+歌MV19,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvPi-4gUov5GSxQM.mp4
+歌MV20,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgh7GM5gUowOmHhwM.mp4
+歌MV21,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-feR5wUo5M2ibw.mp4
+歌MV22,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglNbE4gUoham84wU.mp4
+歌MV23,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsK2M5gUosN7C7QQ.mp4
+歌MV24,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgupai5wUonrHpywI.mp4
+歌MV25,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnJ3x5gUo0-uHqwM.mp4
+歌MV26,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr7qk4wUoqqvYowU.mp4
+歌MV27,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAghbGM5gUonv2rzgY.mp4
+歌MV28,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkLjX4gUo7pD-swM.mp4
+歌MV29,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnMOv5wUouMCstQQ.mp4
+歌MV30,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp7CM5gUo0rva5QU.mp4
+歌MV31,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg--nW4gUokMvrzgY.mp4
+歌MV32,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpPTW4gUoz_DgdQ.mp4
+歌MV33,http://vd4.bdstatic.com/mda-ickhjq8gkcxz55i1/sc/mda-ickhjq8gkcxz55i1.mp4
+歌MV34,http://vd4.bdstatic.com/mda-ihkwerpgqm1v3ehy/sc/mda-ihkwerpgqm1v3ehy.mp4
+歌MV35,http://vd4.bdstatic.com/mda-jhid37v9u4vny09j/sc/mda-jhid37v9u4vny09j.mp4
+歌MV36,http://vd4.bdstatic.com/mda-icpieeuwfuwruijw/sc/mda-icpieeuwfuwruijw.mp4
+歌MV37,http://vd4.bdstatic.com/mda-jhtriuc2z5fddtre/sc/mda-jhtriuc2z5fddtre.mp4
+歌MV38,http://vd4.bdstatic.com/mda-jepbbqntd414qsem/sc/mda-jepbbqntd414qsem.mp4
+歌MV39,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgueWa4gUo_-2vowI.mp4
+歌MV40,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3MOv5wUojLD3vgE.mp4
+歌MV41,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg8JWi5wUokMTQ0AE.mp4
+歌MV42,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2bGM5gUo_NXfoAI.mp4
+歌MV43,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglcSv5wUospmsmQU.mp4
+歌MV44,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAggpvX4gUo7e7N8QI.mp4
+歌MV45,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw_ma4gUouNqBoAQ.mp4
+歌MV46,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgqMGv5wUo2ZSx8QY.mp4
+歌MV47,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg38q04wUomp3jxAQ.mp4
+歌MV48,http://vd4.bdstatic.com/mda-ji3nh9t9qpewj26m/sc/mda-ji3nh9t9qpewj26m.mp4
+歌MV49,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg75_b4gUogP7C2QY.mp4
+歌MV50,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg18Cv5wUoy_y7mQE.mp4
+歌MV51,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzL_v5wUowL3FvAM.mp4
+歌MV52,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy6yM5gUo7Pnd-QU.mp4
+歌MV53,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAghMCv5wUoqteI8gM.mp4
+歌MV54,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-JfV4gUol9ea6QM.mp4
+歌MV55,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0f2a4gUonvrdrgI.mp4
+冷漠-古咖啡,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_3142984&response=res&format=mp4&type=convert_url
+冷漠-时光海灣,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_9867444&response=res&format=mp4&type=convert_url
+冷漠-真不是闹着玩,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_22836669&response=res&format=mp4&type=convert_url
+冷漠-谁都不要说分手,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_12975393&response=res&format=mp4&type=convert_url
+冷漠-再爱也没有用,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_5834217&response=res&format=mp4&type=convert_url
+冷漠-不要再说你还爱我,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_911272&response=res&format=mp4&type=convert_url
+冷漠-别把寂寞当缘分,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_6210858&response=res&format=mp4&type=convert_url
+冷漠-你把爱情给了谁,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1210771&response=res&format=mp4&type=convert_url
+冷漠-我是否也在你心中,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_4378249&response=res&format=mp4&type=convert_url
+冷漠-多情的人不该相遇,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1041689&response=res&format=mp4&type=convert_url
+凤凰传奇-華夏传说,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_40828850&response=res&format=mp4&type=convert_url
+凤凰传奇-奢香夫人,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_51674527&response=res&format=mp4&type=convert_url
+凤凰传奇-今生的缘,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_646024&response=res&format=mp4&type=convert_url
+凤凰传奇-荷塘月色,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1565837&response=res&format=mp4&type=convert_url
+凤凰传奇-自由飞翔,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_18747906&response=res&format=mp4&type=convert_url
+凤凰传奇-策马奔腾,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_24042013&response=res&format=mp4&type=convert_url
+凤凰传奇-温柔姑娘,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_6401404&response=res&format=mp4&type=convert_url
+凤凰传奇-自由自在,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_24042025&response=res&format=mp4&type=convert_url
+凤凰传奇-奇迹世界,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_954805&response=res&format=mp4&type=convert_url
+凤凰传奇-歌唱二小放牛郎,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_8120530&response=res&format=mp4&type=convert_url
+凤凰传奇-中国味道,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_24042021&response=res&format=mp4&type=convert_url
+凤凰传奇-光芒,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_24042019&response=res&format=mp4&type=convert_url
+凤凰传奇-御龙归字谣,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1164118&response=res&format=mp4&type=convert_url
+凤凰传奇-月亮之上,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_7084968&response=res&format=mp4&type=convert_url
+邓丽君 歌曲精选九首 經典歌曲,https://vdse.bdstatic.com//432792ba00998e73655101c9e706e1e2.mp4
+金典老歌,https://vdse.bdstatic.com//36ea0ffcf8156a44b9d524d999eb088a.mp4
+刀郎經典歌曲7首：《西海情歌》《敖包相会》《情人》冲动的惩罚,https://vdse.bdstatic.com//628ca08719cef5987ea2ae3c6f0d2386.mp4
+刀郎經典歌曲精选,https://vdse.bdstatic.com//4fcca19a19aa4974230c5ee70ab5fa55.mp4
+刀郎經典老歌合集《披着羊皮的狼》《西海情歌》《冲动的惩罚》,https://vdse.bdstatic.com//bfbb0871ed01eb3328497faae6a8531b.mp4
+云朵、刀郎、孙露、张雨生等經典怀旧歌曲6首,https://vdse.bdstatic.com//fa0ed7ad8657cc4d13972c3d9aa5ddbf.mp4
+怀旧金曲:刀郎《黄玫瑰》,https://vdse.bdstatic.com//893331fdfab5d04e5c93e2adbbf1e949.mp4
+飞鸟和蝉-任然,https://vd4.bdstatic.com/mda-kmagpap54qyv855r/v1-cae/1080p/mda-kmagpap54qyv855r.mp4
+海鸥飞-龙梅子,https://vd2.bdstatic.com/mda-kgrx6ftzptj5x4i9/v1-cae/1080p/mda-kgrx6ftzptj5x4i9.mp4
+不再痴情-黄静美,https://vd2.bdstatic.com/mda-mguiyws4cia6d0rf/1080p/cae_h264/1627568961141809995/mda-mguiyws4cia6d0rf.mp4
+天公不作美-黄静美,https://vd2.bdstatic.com/mda-mcibj6pxkwe3x1ji/1080p/cae_h264/1616117049/mda-mcibj6pxkwe3x1ji.mp4
+浪子闲话-笑纳-赤伶,https://vd3.bdstatic.com/mda-mi0jir5caqx8xtmh/1080p/cae_h264/1630505223203305128/mda-mi0jir5caqx8xtmh.mp4
+用力活着-张茜,https://vd4.bdstatic.com/mda-mfmcz8hk0qjieck2/1080p/cae_h264/1624355388377695977/mda-mfmcz8hk0qjieck2.mp4
+点歌的人-海来阿木,https://vd3.bdstatic.com/mda-maqxxg1hrznsdf1a/v1-cae/1080p/mda-maqxxg1hrznsdf1a.mp4
+你的万水千山-海来阿木,https://vd4.bdstatic.com/mda-ki4i7gfqw6cw6hq0/v1-cae/1080p/mda-ki4i7gfqw6cw6hq0.mp4
+当我孤独的时候还可以抱着你郑源,https://vd4.bdstatic.com/mda-kgaerksrx80jgdu0/v1-cae/1080p/mda-kgaerksrx80jgdu0.mp4
+寂寞的人伤心的歌-龙梅子、杨海彪,https://vd4.bdstatic.com/mda-kb5gc9c1vmtz93g8/v1-cae/sc/mda-kb5gc9c1vmtz93g8.mp4
+两个人-蔡妍-BerryGood,https://vd2.bdstatic.com/mda-iffus60ju99vp5kr/sc/mda-iffus60ju99vp5kr.mp4
+两个人-蔡妍-BerryGood,https://vd4.bdstatic.com/mda-ki9ze4v8sw9sj7cb/sc/mda-ki9ze4v8sw9sj7cb.mp4
+情歌皇后林翠萍《相见不如不见》F,https://vdse.bdstatic.com//1f65ad884619a069c68572f1ac9e2b0e.mp4
+林翠萍《负心的你》F,https://vdse.bdstatic.com//16425f9f93e382e23bcde71f8ed85a4c.mp4
+林翠萍經典老歌《相会在梦里》F,https://vdse.bdstatic.com//00fb72cd0b27bec6d9c0cd915874b50e.mp4
+林翠萍經典情歌《相思豆》F,https://vdse.bdstatic.com//986498bb0ccd2114ba1274df22fae332.mp4
+精选韓宝仪經典歌曲10首F,https://vdse.bdstatic.com//42d5ac65a9070eeab2513bf6bc65ea4d.mp4
+龙飘飘《我没醉》F,https://vdse.bdstatic.com//3d48e45e47836cd75c202ec957260837.mp4
+龙飘飘《往事》F,https://vdse.bdstatic.com//a28e362e15fa8c361219944bfb59b596.mp4
+龙飘飘《歌声恋情》F,https://vdse.bdstatic.com//552f15ac34dc97bdb3cc7725cd0a0aa4.mp4
+美酒加咖啡 龙飘飘F,https://vdse.bdstatic.com//816c73543ede254586a625cacc67ea0f.mp4
+关正杰的十首粤语老歌F,https://vdse.bdstatic.com//d95bf4719f9e5b7bf1f2ef3679f1fdb2.mp4
+林翠萍《麦搁來这套》,https://vdse.bdstatic.com//5b388a47b1233105831e09b8cadc1edd.mp4
+龙飘飘經典老歌《后悔爱上你》,https://vdse.bdstatic.com//bde5b937e292c240a4322d9719deb98b.mp4
+sheep张艺兴,https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
+屋顶着火宋茜,https://vd3.bdstatic.com/mda-ife08h4xpq85sg65/logo//mda-ife08h4xpq85sg65.mp4?pd=19&vt=1
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
