@@ -54,11 +54,12 @@
       "changeable": 1
     },
     {
-     "key": "南瓜影视",
-     "name": "南瓜┃影视",
-     "type": 3,
-     "api":"http://o.nxog.top/m/js/nxog.js",
-     "ext": "http://o.nxog.top/m/js/101.js"
+      "key": "南瓜影视",
+      "name": "南瓜┃影视",
+      "type": 3,
+      "api":"http://o.nxog.top/m/js/nxog.js",
+      "api":"http://o.nxog.top/m/js/nxog.js",
+      "ext": "http://o.nxog.top/m/js/101.js"
     },
     {
       "key": "白雾",
