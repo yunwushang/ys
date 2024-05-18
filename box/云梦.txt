@@ -54,17 +54,6 @@
       "changeable": 1
     },
     {
-      "key": "南",
-      "name": "🎃南瓜┃多线",
-      "type": 3,
-      "api": "csp_NanGua",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "白雾",
       "name": "🎇云雾┃无广",
       "type": 3,
