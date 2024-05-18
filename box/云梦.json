@@ -1,7 +1,7 @@
 {
-  "spider": "./spider.jar",
+  "spider": "./spiderv.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-  "lives": [
+  "lives" [
     {
       "name": "LIVE",
       "type": 0,
@@ -49,6 +49,17 @@
       "jar": "./lib/fan.txt",
       "api": "csp_YCyz",
       "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "南",
+      "name": "🎃南瓜┃多线",
+      "type": 3,
+      "api": "csp_NanGua",
+      "timeout": 15,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
