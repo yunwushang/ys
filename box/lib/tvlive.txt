@@ -4,12 +4,6 @@
 邵氏影院[1280*720],http://epg.112114.xyz/douyu/4246519
 云众生全,#genre#
 
-┌ 云众生邵氏影院 ┐,#genre#
-
-邵氏影院[1280*720],http://diyp.112114.xyz/douyu/4246519
-邵氏影院[1280*720],http://epg.112114.xyz/douyu/4246519
-云众生全,#genre#
-
 CCTV1,http://113.98.122.166:9901/tsfile/live/1001_1.m3u8?key=txiptv
 CCTV2,http://113.98.122.166:9901/tsfile/live/1002_1.m3u8?key=txiptv
 CCTV3,http://113.98.122.166:9901/tsfile/live/1003_1.m3u8?key=txiptv
@@ -122,8 +116,6 @@ CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 四川卫视,http://pi.0472.org/live/scws.m3u8?token=240413
 新疆卫视,http://pi.0472.org/live/xjws.m3u8?token=240413
 海南卫视,http://pi.0472.org/live/hinws.m3u8?token=240413
-📺IPV4频道,#genre#
-
 📺IPV4频道,#genre#
 
 CCTV1,http://180.164.40.181:2222/udp/239.45.3.88:5140
