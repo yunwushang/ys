@@ -6,10 +6,6 @@
 邵氏影院@代,http://www.goodiptv.club/douyu/4246519
 经典影院@代,http://ali.hlspull.yximgs.com/live/asdfg32516.flv
 林正英频道台,https://hw.flv.huya.com:443/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.flv?ctype=tars_mp&exsphd=264_500%2C264_2000%2C264_4000%2C264_6000%2C264_8000%2C&fs=bgct&seqid=3180385652194&sphd=264_%2A-265_%2A&sphdDC=huya&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sv=2024041407&t=102&uid=1467335576631&uuid=648783758&ver=1&wsSecret=3d15c69c32f4799d20a00e41bdbf0831&wsTime=661b663b
-香港电影频道,http://live-cmvideo.cmread.com:80/wd_r2/virtuallive/5100180869/150/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a78e73c9d50f677a369a589aace6f489
-河南酒店影01,http://477.hsmedia.top:8080/newlive/live/hls/59/live.m3u8
-河南酒店影02,http://477.hsmedia.top:8080/newlive/live/hls/58/live.m3u8
-周星驰影@代,http://223.109.210.49/txdirect.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv
 超级电影@代,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 中国功夫@代,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 重温经典@代,http://43.141.130.51/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
